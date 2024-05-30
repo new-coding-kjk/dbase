@@ -1,1 +1,1 @@
-FROM mariadb:latest
+FROM mongo:latest
